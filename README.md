@@ -42,5 +42,3 @@ pip install yfinance numpy pandas scipy matplotlib koreanize_matplotlib xlsxwrit
 - 본 시뮬레이션을 통해 점프 상황에서 감마 헷지가 델타 헷지에 비해 손익 변동성을 얼마나 효과적으로 관리하는지 확인할 수 있습니다.
 - 통계적 검정을 통해 두 전략 간의 유의미한 성과 차이를 분석하였습니다. (상세 내용은 PDF 보고서 참조)
 =======
-# Jumping Bean
->>>>>>> 5a5f47f9a5cde25e54003156541daef53fe6a0fd
